@@ -7,11 +7,15 @@ It's important to say we've learned how to make animations in CSS, this is so CO
 
 ![preview](./.github/Screenshot.png)
 
-[Click here and access the website! 🖱️](https://brenolo04.github.io/NLW-eSports-explore/)
+>Trail Explorer 🔎
+
+[🔗Click here and access the website! ](https://brenolo04.github.io/NLW-eSports-explore/)
 
 ## ⚙️ Used technologies
 
 - 📜HTML
 - 🎨CSS
+
+## My Social 📱
 
 [My Instagram 🤳]( https://www.instagram.com/brenocaires_/)
