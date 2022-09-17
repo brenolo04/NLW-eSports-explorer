@@ -9,7 +9,7 @@ It's important to say we've learned how to make animations in CSS, this is so CO
 
 >Trail Explorer 🔎
 
-[🔗Click here and access the website! ](https://brenolo04.github.io/NLW-eSports-explore/)
+[🔗Click here and access the website! ](https://brenolo04.github.io/NLW-eSports-explorer/)
 
 ## ⚙️ Used technologies
 
